@@ -167,8 +167,8 @@ export default defineComponent({
     display: flex;
     flex-direction: column;
     position: absolute;
-    top: 1vw;
-    right: 48vw;
+    top: 1%;
+    right: 49%;
     justify-content: flex-end;
     align-items: flex-end;
     padding-bottom: 0vh;
