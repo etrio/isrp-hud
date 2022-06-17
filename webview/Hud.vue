@@ -154,8 +154,8 @@ export default defineComponent({
     display: flex;
     flex-direction: column;
     position: fixed;
-    bottom: -3vh;
-    right: 0.5vw;
+    bottom: -20px;
+    right: 0.3%;
     font-size: 10px;
     font-family: 'Roboto';
     font-weight: 600;
